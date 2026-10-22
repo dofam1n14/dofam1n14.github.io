@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dofam1n14.github.io/kalkulyator/sitemap.xml
+Sitemap: https://elektronshik.pages.dev/sitemap.xml
